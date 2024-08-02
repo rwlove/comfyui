@@ -1,5 +1,5 @@
 FROM pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
-ARG TAG_VERSION=v0.0.4
+ARG TAG_VERSION=v0.0.3
 
 ENV DEBIAN_FRONTEND=noninteractive PIP_PREFER_BINARY=1
 

@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ghcr.io/rwlove/comfyui:v0.0.3
+          tags: ghcr.io/rwlove/comfyui:latest

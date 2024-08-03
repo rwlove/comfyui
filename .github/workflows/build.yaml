@@ -7,7 +7,7 @@ on:
 
 jobs:
   docker:
-    runs-on: ["arc-runner-set-home-ops"]
+    runs-on: ["arc-runner-set-comfyui"]
     steps:
       -
         name: Set up QEMU
